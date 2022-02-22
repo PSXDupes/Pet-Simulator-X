@@ -1,9 +1,5 @@
 -- Game: Pet Simulator X
-local PetSim = game:GetService("Players").LocalPlayer.Settings
-PetSim:Destroy()
-wait(0.5)
-PetSim:Destroy()
-
+local PetSim = game:GetService("Players").LocalPlayer
 
 
 
